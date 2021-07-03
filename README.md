@@ -30,19 +30,16 @@ With the help of nodemon, any changes done in the server, will automatically tri
 ## Testing Server
 
 1) Using POSTMAN:
-Create a GET request -> `http:localhost:4466/api/test`
-Hit Send
+Create a GET request -> `http:localhost:4466/api/test` -> Hit Send
 
 2) Using BROWSER:
-In URL bar, enter `http:localhost:4466/api/test`
-Hit Enter
+In URL bar, enter `http:localhost:4466/api/test` -> Hit Enter
 
 If you see following response, then all worked👍
-`{"route":"/api/test","status":"success"}`
 
-
+`{"route":"/api/test","status":"success"}`<br><br>
 
 Feel free to fork and push changes, I'll be more than happy to see any advancements. 
 Happy Developing your next project.
 
-Created with ❤️ by Hrishikesh Sharma.
+**Created with ❤️ by Hrishikesh Sharma**
