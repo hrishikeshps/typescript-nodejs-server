@@ -22,6 +22,8 @@ Default PORT is 4466, however you can change it in the .env file.
 ** If using YARN **
 `yarn run start`
 
+![Screenshot 2021-07-03 210104](https://user-images.githubusercontent.com/13060987/124360528-0c79d880-dc48-11eb-8c94-9a40a9fad728.png)
+
 With the help of nodemon, any changes done in the server, will automatically trigger server to restart to show the latest updates.
 
 
